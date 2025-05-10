@@ -1,4 +1,4 @@
-## Hi, I'm Giovanna Bosquerolli
+## Hi, I'm Giovanna Bosquerolli 𓆝𓆞𓆞
 
 👩🏻‍💻 Cursando Ciência da Computação<br/>
 🌐 Unisul
