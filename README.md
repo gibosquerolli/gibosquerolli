@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Giovanna Bosquerolli
 
-<!--
-**gibosquerolli/gibosquerolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 Cursando Ciência da Computação<br/>
+🌐 Unisul
 
-Here are some ideas to get you started:
+<p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gibosquerolli&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gibosquerolli&layout=compact&langs_count=8&theme=omni"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
